@@ -1,9 +1,5 @@
 
-# Expense Management System using MERN Stack
-
-### Live Website: https://main.d1sj7cd70hlter.amplifyapp.com/
-
-### Vercel Link: https://expense-tracker-app-three-beryl.vercel.app/
+# budget buddy app using MERN Stack
 
 ## Project Description:
 
@@ -74,12 +70,6 @@ Support attaching receipts or other relevant documents to expense entries.
 
     Set up Continuous Integration and Continuous Deployment (CI/CD) pipelines for automated builds and deployments.
 ## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/Priyanshu9898/Expense-Tracker-App
-```
 
 Go to the project directory
 
